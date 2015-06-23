@@ -6,7 +6,7 @@
 ---
 
 #个人信息
-* 方旭/男/1994
+* 方旭/男/1993
 * 本科/沈阳工业大学计算机科学与技术系/2012-2016
 * Github：<https://github.com/bricksfx>
 * 个人网站：<http://www.bricksfx.cn/index>(推荐使用chrome浏览器体验）
