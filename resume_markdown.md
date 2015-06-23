@@ -14,10 +14,9 @@
 ---
 
 #技能清单
-* Web开发：python django模块，会使用nginx+uwsgi+django方式部署服务器，独立实现web前端后端。
+* Web开发：（LNMP）以linux作为日常操作系统，会使用nginx+uwsgi+django方式部署服务器，熟悉mysql基本操作，python django模块，能独立实现web前端后端。
 * 前端：HTML/CSS/jquery（在搭建个人网站时大量用到）
 * 前端框架：Bootstrap/HTML5（在个人博客以及正在评比的全国信息安全大赛作品中有用到）
-* 数据库相关：MySQL 一般用django 自带orm与mysql进行交互
 * python:熟悉基本语法以及django模块，正式的实现过两个web项目，一个发短信的小脚本
 * c:平时acm刷题时用到
 * 版本管理：Git
