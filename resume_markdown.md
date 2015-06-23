@@ -53,15 +53,16 @@
 # 曾获荣誉
 ###专业技能
 * 2015.06   [全国大学生信息安全大赛（网计评分中）]  
-* 2014.11   [ACM/ICPC 辽宁赛区 三等奖]()
-* 2014.06   [ACM/ICPC 东北赛区 荣誉奖]()  
-* 2013-2014 [校级acm 一/二等奖 共三次]()  
+* 2014.05   [ACM/ICPC 辽宁赛区 三等奖](https://github.com/bricksfx/resume_self/blob/master/acm_icpc_third.jpg)
+* 2014.08   [ACM/ICPC 东北赛区 荣誉奖](https://github.com/bricksfx/resume_self/blob/master/acm_icpc_hornorable.jpg)  
+* 2013-2014 校级acm 一/二等奖 共三次 [2013.11](https://github.com/bricksfx/resume_self/blob/master/acm_school_2.jpg)[2014.4](https://github.com/bricksfx/resume_self/blob/master/acm_school_1.jpg)[2014.11](https://github.com/bricksfx/resume_self/blob/master/acm_school_22.jpg)  
 
 
 ###综合素质
-* 2014.11 [校二等等奖学金]() 
-* 2015.11 [校三等等奖学金](图片丢失)
-* 2013.12 [校三好学生]()       
+* 2013.11 [校二等奖学金](https://github.com/bricksfx/resume_self/blob/master/school_2.jpg) 
+* 2013.11 [校三好学生](https://github.com/bricksfx/resume_self/blob/master/school_3.jpg)
+* 2015.11 校三等奖学金 
+       
 
 
 
