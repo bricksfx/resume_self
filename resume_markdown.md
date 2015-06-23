@@ -61,7 +61,7 @@
 ###综合素质
 * 2013.11 [校二等奖学金](https://github.com/bricksfx/resume_self/blob/master/school_2.jpg) 
 * 2013.11 [校三好学生](https://github.com/bricksfx/resume_self/blob/master/school_3.jpg)
-* 2015.11 校三等奖学金 
+* 2014.11 校三等奖学金 
        
 
 
